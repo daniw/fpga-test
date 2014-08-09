@@ -59,5 +59,9 @@ xst/
 _ngo/
 _xmsgs/
 
+# planahead files
+planAhead_run_1/
+planAhead_*.debug
+
 # datasheets
 */datasheet/*.pdf
