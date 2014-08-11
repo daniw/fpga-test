@@ -1,0 +1,21 @@
+
+# PlanAhead Generated physical constraints 
+
+NET "button(0)" LOC = F3;
+NET "button(1)" LOC = G6;
+NET "button(2)" LOC = F5;
+NET "button(3)" LOC = C1;
+NET "dip_sw(0)" LOC = C18;
+NET "dip_sw(1)" LOC = Y6;
+NET "dip_sw(2)" LOC = W6;
+NET "dip_sw(3)" LOC = E4;
+NET "led(0)"    LOC = D17;
+NET "led(1)"    LOC = AB4;
+NET "led(2)"    LOC = D21;
+NET "led(3)"    LOC = W15;
+NET "clk"       LOC = AB13;   # 27 MHz User Clock
+NET "reset"     LOC = H8;
+NET "header(0)" LOC = G7;
+NET "header(1)" LOC = H6;
+NET "header(2)" LOC = D1;
+NET "header(3)" LOC = R7;
