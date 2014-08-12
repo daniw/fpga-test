@@ -1,0 +1,8 @@
+INTSTYLE=impact
+INFILE=/home/daniw/data/ele/prj/fpga-test/sp605/demo/impact.xsl
+OUTFILE=/home/daniw/data/ele/prj/fpga-test/sp605/demo/impact.xsl
+FAMILY=Multiple
+PART=Multiple
+WORKINGDIR=/home/daniw/data/ele/prj/fpga-test/sp605/demo
+LICENSE=iMPACT
+USER_INFO=iMPACT
