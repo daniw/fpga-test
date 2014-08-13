@@ -65,3 +65,6 @@ planAhead_*.debug
 
 # datasheets
 */datasheet/*.pdf
+
+# temporary editor files
+*.swp
