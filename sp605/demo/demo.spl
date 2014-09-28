@@ -1,0 +1,9 @@
+[Inputs]
+clk
+reset
+=button[3:0]=
+=dip_sw[3:0]=
+[Outputs]
+=led[3:0]=
+[BiDir]
+=header[3:0]=
